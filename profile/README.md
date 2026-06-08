@@ -9,7 +9,6 @@ Dmmsys AI DRP provides open‑source AI infrastructure for manufacturing and sup
 | Module | Description |
 |--------|-------------|
 | [dmmsys_business_llm_chat](https://github.com/dmmsys-ai-drp/dmmsys_business_llm_chat) | Pure LLM chat – FAB window, multi‑LLM, auto context |
-| [dmmsys_foundation_ai_agent](https://github.com/dmmsys-ai-drp/dmmsys_foundation_ai_agent) (coming soon) | Full Agent core: tools, RAG, task orchestration |
 | More modules to be added… | Professional MCP, enterprise ontology, self‑evolution |
 
 ## 💼 Commercial Modules (sold separately)
